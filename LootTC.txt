@@ -1,0 +1,18 @@
+Name    	Result1    	Prob1    	Result2    	Prob2    	Result3    	Prob3    	Result4    	Prob4    	Result5    	Prob5    	Result6    	Prob6    
+swords_common	Sword_01	2	Sword_02	2	Sword_03	2	Sword_04	2	Sword_05	2	Sword_06	2
+swords_uncommon	Sword_07	2	Sword_08	2	Sword_09	2	Sword_10	2	Sword_11	2		
+swords_rare	Sword_12	2	Sword_13	2	Sword_14	2	Sword_15	2				
+swords_epic	Sword_16	2	Sword_17	2	Sword_18	2						
+swords_A	swords_common	22	swords_uncommon	16	swords_rare	8	swords_epic	2				
+swords_B	swords_common	16	swords_uncommon	12	swords_rare	7	swords_epic	3				
+swords_C	swords_common	10	swords_uncommon	8	swords_rare	6	swords_epic	4				
+maces_common	Mace_01	2	Mace_02	2	Mace_03	2	Mace_04	2	Mace_05	2	Mace_06	2
+maces_uncommon	Mace_07	2	Mace_08	2	Mace_09	2	Mace_10	2	Mace_11	2		
+maces_rare	Mace_12	2	Mace_13	2	Mace_14	2	Mace_15	2				
+maces_epic	Mace_16	2	Mace_17	2	Mace_18	2						
+maces_A	maces_common	22	maces_uncommon	16	maces_rare	8	maces_epic	2				
+maces_B	maces_common	16	maces_uncommon	12	maces_rare	7	maces_epic	3				
+maces_C	maces_common	10	maces_uncommon	8	maces_rare	6	maces_epic	4				
+weapons_drop1	swords_A	2	maces_A	2								
+weapons_drop2	swords_B	2	maces_B	2	weapons_drop1	8						
+weapons_drop3	swords_C	2	maces_C	2	weapons_drop2	8						
